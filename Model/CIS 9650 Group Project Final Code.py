@@ -1,11 +1,6 @@
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  3 18:43:15 2019
-
-@author: ziboxu
-"""
 
 # import dataset 
 import pandas as pd
