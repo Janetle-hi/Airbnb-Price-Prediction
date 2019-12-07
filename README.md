@@ -12,3 +12,6 @@ The data used in this project is generated from “Inside Airbnb”, which uses 
 **Project purpose**
 
 It is important for hosts to understand Airbnb pricing and value the place correctly. This project aims to help hosts to determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
+
+**Web develop**
+http://aec4.com/cis9650/airbnb.py
