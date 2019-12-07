@@ -25,7 +25,7 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.20, rand
 
 # fitting Random Forest Regression to the dataset
 from sklearn.ensemble import RandomForestRegressor
-regressor = RandomForestRegressor(n_estimators = 10, random_state = 0)
+regressor = RandomForestRegressor(n_estimators = 128, random_state = 0)
 regressor.fit(x_train, y_train)
 
 # predict y value using x test set
