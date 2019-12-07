@@ -20,8 +20,10 @@ It is important for hosts to understand Airbnb pricing and value the place corre
 sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
 
 **Web develop**
+
 http://aec4.com/cis9650/airbnb.py
 
 
 **Slides**
+
 https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
