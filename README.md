@@ -1,4 +1,5 @@
 # **Airbnb Price Prediction - CIS 9650**
+Group Members: Hailin Du, Qianwen Qian, Yan Wang, Trang Le, Zibo Xu, Songchen Nan
 
 **Problem**
 
@@ -9,9 +10,17 @@ The total price of a reservation on Airbnb is based on the nightly rate (based p
 
 The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html.
 
+
 **Project purpose**
 
 It is important for hosts to understand Airbnb pricing and value the place correctly. This project aims to help hosts to determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
 
+**Python Libraries**
+sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
+
 **Web develop**
 http://aec4.com/cis9650/airbnb.py
+
+
+**Slides**
+https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
