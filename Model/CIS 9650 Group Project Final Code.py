@@ -1,12 +1,3 @@
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  3 18:43:15 2019
-
-@author: ziboxu
-"""
-
 # import dataset 
 import pandas as pd
 df = pd.read_csv("Final_dataset.csv")
@@ -89,7 +80,7 @@ R2 = r2_score(y_test, y_pred)
 #print("we suggest price $",new_pred[0],"per night")
 #
 #
-##Testing plot (Choose 1 preferred)
+##Testing plot
 ##1. Line plot
 #import matplotlib.pyplot as plt  
 #predict =regressor.predict(x_test)
