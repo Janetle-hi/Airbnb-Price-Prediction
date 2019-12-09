@@ -35,3 +35,7 @@ The Model folder contains the final codes that contribute to price prediction fo
 **data preprocessing**
 
 The data preprocessing folder contains all the data processing codes. Initial clean, natural language processing, detect and remove outliers with Z score, feature selection. 
+
+**Visualization**
+
+The Visualization folder contains visual plots. 
