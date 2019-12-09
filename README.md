@@ -31,3 +31,7 @@ https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#sl
 **Model**
 
 The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
+
+**data preprocessing**
+
+The data preprocessing folder contains all the data processing codes. Initial clean, natural language processing, detect and remove outliers with Z score, feature selection. 
