@@ -8,7 +8,7 @@ The total price of a reservation on Airbnb is based on the nightly rate (based p
 
 **Datasets**
 
-The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html.
+The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html. The original raw datasets used in this project all stored in the data folder.
 
 
 **Project purpose**
@@ -27,3 +27,6 @@ http://aec4.com/cis9650/airbnb.py
 **Slides**
 
 https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
+
+**Model**
+The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
