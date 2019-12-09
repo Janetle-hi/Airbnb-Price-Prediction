@@ -29,4 +29,5 @@ http://aec4.com/cis9650/airbnb.py
 https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
 
 **Model**
+
 The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
