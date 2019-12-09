@@ -18,6 +18,7 @@ It is important for hosts to understand Airbnb pricing and value the place corre
 **Python Libraries**
 
 sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
+nltk.sentiment.vader, SentimentIntensityAnalyzer, SelectKBest, WordCloud
 
 **Web develop**
 
