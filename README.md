@@ -21,7 +21,7 @@ sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, skl
 
 **Web develop**
 
-http://aec4.com/cis9650/airbnb.py
+http://aec4.com/cis9650/airbnb.py The details are inside the Web develop folder.
 
 
 **Slides**
