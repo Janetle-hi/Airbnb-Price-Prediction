@@ -16,9 +16,9 @@ The data used in this project is generated from “Inside Airbnb”, which uses 
 It is important for hosts to understand Airbnb pricing and value the place correctly. This project aims to help hosts to determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
 
 **Python Libraries**
-
-sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, geopandas, numpy
-nltk.sentiment.vader, SentimentIntensityAnalyzer, SelectKBest, WordCloud
+Data cleanning: pandas, numpy
+Data Exploratory analysis: matplotlib, seaborn, numpy, geopandas, nltk.sentiment.vader, SentimentIntensityAnalyzer, SelectKBest, WordCloud
+Data Model: sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
 
 **Slides**
 
