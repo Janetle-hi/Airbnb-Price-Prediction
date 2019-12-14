@@ -24,7 +24,7 @@ Data Model: sklearn.model_selection(train_test_split),sklearn.feature_selection,
 
 https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
 
-**data preprocessing**
+**Data preprocessing**
 
 The data preprocessing folder contains all the data processing codes. Initial clean, natural language processing, detect and remove outliers with Z score, feature selection. 
 
@@ -32,7 +32,7 @@ The data preprocessing folder contains all the data processing codes. Initial cl
 
 The Visualization folder contains visual plots. 
 As we can see from the plots, Mahanttan is the most expensive area and also has highest numbers of listings.
-Entire home/apt consititude about 75-80% of listings type.
+Entire home/apt constitudes about 75-80% of listings type.
 Wordcloud plots give some key words regarding description, house rules that host can pay attention to while renting the place.
 
 **Model**
