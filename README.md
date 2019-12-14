@@ -17,21 +17,12 @@ It is important for hosts to understand Airbnb pricing and value the place corre
 
 **Python Libraries**
 
-sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
+sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, geopandas, numpy
 nltk.sentiment.vader, SentimentIntensityAnalyzer, SelectKBest, WordCloud
-
-**Web develop**
-
-http://aec4.com/cis9650/airbnb.py The details are inside the Web develop folder.
-
 
 **Slides**
 
 https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
-
-**Model**
-
-The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
 
 **data preprocessing**
 
@@ -40,3 +31,18 @@ The data preprocessing folder contains all the data processing codes. Initial cl
 **Visualization**
 
 The Visualization folder contains visual plots. 
+As we can see from the plots, Mahanttan is the most expensive area and also has highest numbers of listings.
+Entire home/apt consititude about 75-80% of listings type.
+Wordcloud plots give some key words regarding description, house rules that host can pay attention to while renting the place.
+
+**Model**
+
+The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
+After running different algorithms including Linear Regression, K Means, Decision Tree, Multiple Regression, we finalize choosing Random Forest Model with highest accuracy ( abt 85%) as our price model. 
+
+**Web develop**
+
+With the support of Prof, our group run inial Web develop as link http://aec4.com/cis9650/airbnb.py 
+Hosts can use the link and input their available data. Output will be suggested price housing.
+The details code are inside the Web develop folder.
+
